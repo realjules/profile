@@ -1,6 +1,4 @@
 # Hey there! 👋
-
-## 🚀 About Me
 AI nerd ex-CMU, former Data Scientist at Babylon Health, and researcher in ML, Safety and SciML. I break machine learning models so you don’t have to. 🤖💥
 
 ## 🔍 Interests
