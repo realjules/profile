@@ -19,5 +19,3 @@ Let's connect and innovate together! 🌟
 [![numpy](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![dbt](https://img.shields.io/badge/-dbt-orange?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![C++](https://img.shields.io/badge/-C++-purple?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
-📫 Feel free to reach out and collaborate! 🌐
