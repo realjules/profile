@@ -10,4 +10,4 @@ AI nerd ex-CMU, former Data Scientist at Babylon Health, and researcher in ML, S
 I build things. Some work. Check them out [here](https://github.com/realjules?tab=repositories)!
 
 Always up for nerdy convos and AI banter! 🚀
-
+ 
